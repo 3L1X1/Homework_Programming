@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour
     private float _xSpeed;
     private float _ySpeed;
 
-    public float speed = 3;
+    public float speed = 31;
 
     private string InputX = "Horizontal";
     private string InputY = "Vertical";
